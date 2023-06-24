@@ -9,7 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     
-    @State private var counter = 0
+    @State private var counter = 190
     @State private var chocolateRemaining = 40
     @State private var message = ""
     
